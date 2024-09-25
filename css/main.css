@@ -2,19 +2,3 @@ body {
 	background-color: red;
 }
 
-nav {
- width: 20px;
- height: 20px;
-}
-
-content {
- width: 20px;
- height: 20px;
-}
-
-footer {
- width: 20px;
- height: 20px;
- background-color: grey;
- margin: 0px;
-}
